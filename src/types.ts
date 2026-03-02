@@ -54,6 +54,7 @@ export type VideoInfo = {
   duration: number | null;
   uploader: string | null;
   uploader_id: string | null;
+  channel_id: string | null;
   upload_date: string | null;
   release_date: string | null;
   view_count: number | null;

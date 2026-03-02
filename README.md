@@ -104,6 +104,7 @@ npx twitch-dlp "./Chillin [v2222470239].mp4" --merge-fragments --unmute quality
                             * %(duration)s
                             * %(uploader)s
                             * %(uploader_id)s
+                            * %(channel_id)s
                             * %(upload_date)s
                             * %(release_date)s
                             * %(view_count)s
